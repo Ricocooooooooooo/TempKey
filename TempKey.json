@@ -14,3 +14,11 @@
     "allowOffline": false
   }
 ]
+[
+  {
+    "id": "ff495bf35e9fea0e",
+    "username": "sdug",
+    "password": "sdug",
+    "expiresAt": "2090-12-31",
+    "allowOffline": true
+  },
